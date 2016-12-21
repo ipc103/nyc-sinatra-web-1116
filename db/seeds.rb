@@ -14,8 +14,8 @@ landmarks_list = {
     "Subway Station" => {
       :year_completed => 2015
     },
-    "Cast Iron" => {
-      :year_completed => 1951
+    "Natural History Museum" => {
+      :year_completed => 1869
     },
     "Shea Stadium" => {
       :year_completed => 1964
@@ -44,7 +44,7 @@ figure_list = {
     },
     "Ada Lovelace" => {
     },
-    "Linus Torvalds" => { 
+    "Linus Torvalds" => {
     }
   }
 
@@ -58,7 +58,7 @@ end
 title_list = {
     "The Mayor" => {
     },
-    "The Don" => {
+    "Governer" => {
     },
     "Mr. President" => {
     }

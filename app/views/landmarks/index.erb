@@ -1,0 +1,7 @@
+<h1>On the index page...</h1>
+
+<ul>
+  <% @landmarks.each do |landmark| %>
+    <li><%= landmark.name %> was completed in <%= landmark.year_completed %></li>
+  <% end %>
+</ul>
